@@ -1,1 +1,5 @@
-Este es un curso de git
+Esta es la historia de Jerson Rodas
+
+Jerson Rodas tiene 32 años y nació en Peru.
+
+Hoy hablaremos de su historia.
